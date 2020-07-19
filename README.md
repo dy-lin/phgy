@@ -1,2 +1,1 @@
-# phgy
-PHGY papers and presentations
+# McGill Physiology
